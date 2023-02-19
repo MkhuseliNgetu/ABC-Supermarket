@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+
+    <title>
+        Remove Products
+    </title>
+</head>
+<body>
+    <div>
+        <h1 style="text-align:center"> Remove Products</h1>
+
+        <form action="RemoveProduct" method="post" style="text-align:center" enctype="multipart/form-data">
+
+
+            <label><b> Enter the product's name you wish remove</b></label>
+            <br />
+            <input type="text" name="ProductThatNeedsToBeRemoved" />
+            <br />
+
+            <input type="submit" name="RemoveProductSubmitButton" value="Submit" />
+
+
+        </form>
+
+    </div>
+    <div style="text-align:center">
+        @if(Model.ProductName != "")
+        {
+        <label><b>@Model.ProductName has been removed successfully</b></label>
+
+
+        }
+
+
+    </div>
+</body>
+
+
+</html>

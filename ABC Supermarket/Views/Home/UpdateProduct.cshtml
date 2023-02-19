@@ -1,0 +1,48 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+<!DOCTYPE html>
+
+<head>
+
+    <title>
+        Update Product
+
+    </title>
+</head>
+
+<div>
+    <h1 style="text-align:center"> Update Products</h1>
+    <form action="UpdateProduct" method="post" style="text-align:center" enctype="multipart/form-data">
+
+
+
+        <label><b>Enter the existing product's name </b></label>
+        <input type="text" name="ExistingProductName" />
+        </br/>
+
+        <label><b>Insert New Product Image </b></label>
+        <input type="file" name="NewProductImage" accept="image/*" style="text" />
+        </br/>
+
+        <label><b>Enter the new product's description</b></label>
+        <input type="text" name="NewProductDescription" />
+        </br/>
+
+        <label><b>Enter the new product price </b></label>
+        <input type="text" name="NewProductPrice" />
+        </br/>
+
+        <input type="submit" name="UpdateProductSubmitButton" value="Submit" />
+
+    </form>
+</div>
+<div style="text-align:center">
+    @if (Model.ProductName != "" && Model.ProductDescription != "" && Model.ProductPrice != 0)
+    {
+    <label><b>@Model.ProductName has been updated successfully!</b></label>
+        
+    }
+
+</div>
+</html>

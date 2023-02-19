@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+
+    <title>
+        Create A New Product
+
+    </title>
+</head>
+<body>
+    <div>
+        <h1 style="text-align:center"> Create A New Product</h1>
+
+        <form action="CreateNewProduct" method="post" style="text-align:center" enctype="multipart/form-data">
+
+
+
+            <label><b>Insert Product Image </b></label>
+            <input type="file" name="TheUploadedFile" accept="image/*" />
+            <br />
+
+            <label><b>Enter the product's name</b></label>
+            <input type="text" name="TheProductsName" />
+            <br />
+
+            <label><b>Enter the product's decription</b></label>
+            <input type="text" name="TheProductsDescription" />
+            <br />
+
+            <label><b>Enter the product's price</b></label>
+            <input type="text" name="TheProductsPrice" />
+            <br />
+
+            <input type="submit" name="CreateProductSubmitButton" value="Submit" />
+
+
+        </form>
+
+    </div>
+
+    <div style="text-align:center">
+        @if (Model.ProductName != "" && Model.ProductDescription != "" && Model.ProductPrice != 0)
+        {
+            <label><b>Your product has been created successfully!</b></label>
+
+        }
+      
+
+    </div>
+</body>
+
+</html>

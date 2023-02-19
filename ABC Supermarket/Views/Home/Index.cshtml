@@ -1,0 +1,68 @@
+﻿{<!DOCTYPE html>
+<html>
+<head>
+    <title> Home</title>
+</head>
+
+
+
+<body>
+    <h1 style="text-align:center">Welcome to ABC Supermarket</h1>
+    <div>
+        <table>
+            <tr>
+                @foreach (string item in Model.ProductImages)
+                {
+                    <td><img src="data:image/jpeg;base64, @item" width="250" height="250" style="align-content:left" alt="Product Image Unavailable"/></td>//(W3docs, s.a).
+
+                }
+            </tr>
+
+            <tr>
+
+                @foreach (string item2 in Model.ProductNames)
+                {
+
+
+
+                    <td>@item2</td>
+                }
+
+            </tr>
+
+            <tr>
+
+                @foreach (string item3 in Model.ProductDescriptions)
+                {
+
+
+
+                    <td>@item3</td>
+                }
+
+
+            </tr>
+
+            <tr>
+
+                @foreach (string item4 in Model.ProductPrices)
+                {
+
+
+
+                    <td>@item4</td>
+                }
+
+
+            </tr>
+        </table>
+
+
+
+
+
+
+    </div>
+    
+</body>
+</html>

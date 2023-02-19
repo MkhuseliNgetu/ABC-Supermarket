@@ -1,0 +1,376 @@
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\appsettings.json
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\PractisingImageUpload.exe
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\PractisingImageUpload.deps.json
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\PractisingImageUpload.runtimeconfig.json
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\PractisingImageUpload.runtimeconfig.dev.json
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\PractisingImageUpload.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\ref\PractisingImageUpload.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\PractisingImageUpload.pdb
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\PractisingImageUpload.Views.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\PractisingImageUpload.Views.pdb
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\PractisingImageUpload.csproj.AssemblyReference.cache
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\PractisingImageUpload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\PractisingImageUpload.AssemblyInfoInputs.cache
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\PractisingImageUpload.AssemblyInfo.cs
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\PractisingImageUpload.csproj.CoreCompileInputs.cache
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\PractisingImageUpload.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\PractisingImageUpload.RazorAssemblyInfo.cache
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\PractisingImageUpload.RazorAssemblyInfo.cs
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\staticwebassets\PractisingImageUpload.StaticWebAssets.Manifest.cache
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\staticwebassets\PractisingImageUpload.StaticWebAssets.xml
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\scopedcss\bundle\PractisingImageUpload.styles.css
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\PractisingImageUpload.TagHelpers.input.cache
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\PractisingImageUpload.TagHelpers.output.cache
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\PractisingImageUpload.RazorCoreGenerate.cache
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\Razor\Views\Home\CreateNewProduct.cshtml.g.cs
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\PractisingImageUpload.RazorTargetAssemblyInfo.cache
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\PractisingImageUpload.RazorTargetAssemblyInfo.cs
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\PractisingImageUpload.Views.pdb
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\PractisingImageUpload.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\ref\PractisingImageUpload.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\PractisingImageUpload.pdb
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\PractisingImageUpload.genruntimeconfig.cache
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\PractisingImageUpload.csproj.CopyComplete
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\Humanizer.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\Razor\Views\Home\RemoveProduct.cshtml.g.cs
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\Razor\Views\Home\UpdateProduct.cshtml.g.cs
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\BraJo\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\PractisingImageUpload.csproj.AssemblyReference.cache
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\PractisingImageUpload.GeneratedMSBuildEditorConfig.editorconfig
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\PractisingImageUpload.AssemblyInfoInputs.cache
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\PractisingImageUpload.AssemblyInfo.cs
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\PractisingImageUpload.csproj.CoreCompileInputs.cache
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\PractisingImageUpload.MvcApplicationPartsAssemblyInfo.cache
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\PractisingImageUpload.RazorAssemblyInfo.cache
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\PractisingImageUpload.RazorAssemblyInfo.cs
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\PractisingImageUpload.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\ref\PractisingImageUpload.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\PractisingImageUpload.pdb
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\appsettings.Development.json
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\appsettings.json
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\PractisingImageUpload.exe
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\PractisingImageUpload.deps.json
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\PractisingImageUpload.runtimeconfig.json
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\PractisingImageUpload.runtimeconfig.dev.json
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\PractisingImageUpload.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\ref\PractisingImageUpload.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\PractisingImageUpload.pdb
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\PractisingImageUpload.Views.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\PractisingImageUpload.Views.pdb
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\Humanizer.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\System.Data.SqlClient.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\staticwebassets\PractisingImageUpload.StaticWebAssets.Manifest.cache
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\staticwebassets\PractisingImageUpload.StaticWebAssets.xml
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\scopedcss\bundle\PractisingImageUpload.styles.css
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\PractisingImageUpload.TagHelpers.input.cache
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\PractisingImageUpload.TagHelpers.output.cache
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\PractisingImageUpload.RazorCoreGenerate.cache
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\Razor\Views\Home\CreateNewProduct.cshtml.g.cs
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\Razor\Views\Home\RemoveProduct.cshtml.g.cs
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\Razor\Views\Home\UpdateProduct.cshtml.g.cs
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\PractisingImageUpload.RazorTargetAssemblyInfo.cache
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\PractisingImageUpload.RazorTargetAssemblyInfo.cs
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\PractisingImageUpload.Views.pdb
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\PractisingImageUpload.csproj.CopyComplete
+E:\School (2021)\Semester 2\Programming Projects 2021\source\repos\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\PractisingImageUpload.genruntimeconfig.cache
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\appsettings.json
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\PractisingImageUpload.exe
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\PractisingImageUpload.deps.json
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\PractisingImageUpload.runtimeconfig.json
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\PractisingImageUpload.runtimeconfig.dev.json
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\PractisingImageUpload.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\ref\PractisingImageUpload.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\PractisingImageUpload.pdb
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\PractisingImageUpload.Views.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\PractisingImageUpload.Views.pdb
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\PractisingImageUpload.csproj.AssemblyReference.cache
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\PractisingImageUpload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\PractisingImageUpload.AssemblyInfoInputs.cache
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\PractisingImageUpload.AssemblyInfo.cs
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\PractisingImageUpload.csproj.CoreCompileInputs.cache
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\PractisingImageUpload.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\PractisingImageUpload.RazorAssemblyInfo.cache
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\PractisingImageUpload.RazorAssemblyInfo.cs
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\staticwebassets\PractisingImageUpload.StaticWebAssets.Manifest.cache
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\staticwebassets\PractisingImageUpload.StaticWebAssets.xml
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\scopedcss\bundle\PractisingImageUpload.styles.css
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\PractisingImageUpload.TagHelpers.input.cache
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\PractisingImageUpload.TagHelpers.output.cache
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\PractisingImageUpload.RazorCoreGenerate.cache
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\Razor\Views\Home\CreateNewProduct.cshtml.g.cs
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\Razor\Views\Home\RemoveProduct.cshtml.g.cs
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\Razor\Views\Home\UpdateProduct.cshtml.g.cs
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\PractisingImageUpload.RazorTargetAssemblyInfo.cache
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\PractisingImageUpload.RazorTargetAssemblyInfo.cs
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\PractisingImageUpload.Views.pdb
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\PractisingImageUpload.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\ref\PractisingImageUpload.dll
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\PractisingImageUpload.pdb
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\PractisingImageUpload.genruntimeconfig.cache
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\PractisingImageUpload.csproj.CopyComplete
+C:\Users\Vader\Desktop\PractisingImageUpload\PractisingImageUpload\obj\Debug\net5.0\Razor\Views\Home\ViewAllProducts.cshtml.g.cs
