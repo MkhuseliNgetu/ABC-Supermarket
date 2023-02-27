@@ -40,3 +40,9 @@ A fully functional keyboard with the F1 to F12 keys still functional.*
 4. Enter the new description of the product.
 6. Enter the new price of the product.
 7. Click on the 'Submit' button to update your product.
+
+--How to remove a product
+1. Click on the 'Remove Product' tab.
+2. Enter the name of the existing product.
+3. Click on the 'Submit' button to remove a product.
+
