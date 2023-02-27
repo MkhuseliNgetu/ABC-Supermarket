@@ -25,18 +25,18 @@ A fully functional keyboard with the F1 to F12 keys still functional.*
 5. Press CTRL+B at the same time on your keyboard, to compile the program.
 
 -- How to run\
---How to create a product\
+--How to create a product
 1. Click on the 'Create Product' tab.
 2. Click on the 'Choose File' button to select an image for your product.
 3. Enter the name of the product.
 4. Enter the description of the product.
 5. Enter the price of the product.
-6. Click on the 'Sumbit' button to create your product.
+6. Click on the 'Submit' button to create your product.
 
---How to update a product\
+--How to update a product
 1. Click on the 'Update Product' tab.
 2. Enter the name of the existing product.
 3. Click on the 'Choose File' button to select an image that will replace the existing image of your product.
 4. Enter the new description of the product.
 6. Enter the new price of the product.
-7. Click on the 'Sumbit' button to update your product.
+7. Click on the 'Submit' button to update your product.
