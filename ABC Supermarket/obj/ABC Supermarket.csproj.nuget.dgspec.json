@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BraJo\\Desktop\\CLDV6212 Task 2 Mkhuseli Ngetu 20108278\\ABC Supermarket\\ABC Supermarket.csproj": {}
+    "C:\\Users\\BraJo\\Documents\\GitHub\\ABC-Supermarket\\MkhuseliNgetu\\ABC-Supermarket\\ABC Supermarket\\ABC Supermarket.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BraJo\\Desktop\\CLDV6212 Task 2 Mkhuseli Ngetu 20108278\\ABC Supermarket\\ABC Supermarket.csproj": {
+    "C:\\Users\\BraJo\\Documents\\GitHub\\ABC-Supermarket\\MkhuseliNgetu\\ABC-Supermarket\\ABC Supermarket\\ABC Supermarket.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BraJo\\Desktop\\CLDV6212 Task 2 Mkhuseli Ngetu 20108278\\ABC Supermarket\\ABC Supermarket.csproj",
+        "projectUniqueName": "C:\\Users\\BraJo\\Documents\\GitHub\\ABC-Supermarket\\MkhuseliNgetu\\ABC-Supermarket\\ABC Supermarket\\ABC Supermarket.csproj",
         "projectName": "ABC Supermarket",
-        "projectPath": "C:\\Users\\BraJo\\Desktop\\CLDV6212 Task 2 Mkhuseli Ngetu 20108278\\ABC Supermarket\\ABC Supermarket.csproj",
+        "projectPath": "C:\\Users\\BraJo\\Documents\\GitHub\\ABC-Supermarket\\MkhuseliNgetu\\ABC-Supermarket\\ABC Supermarket\\ABC Supermarket.csproj",
         "packagesPath": "C:\\Users\\BraJo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BraJo\\Desktop\\CLDV6212 Task 2 Mkhuseli Ngetu 20108278\\ABC Supermarket\\obj\\",
+        "outputPath": "C:\\Users\\BraJo\\Documents\\GitHub\\ABC-Supermarket\\MkhuseliNgetu\\ABC-Supermarket\\ABC Supermarket\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BraJo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,7 +59,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -71,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

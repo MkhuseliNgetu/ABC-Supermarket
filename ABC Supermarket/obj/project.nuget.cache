@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dd5ve5TANedB1b+RY/CK9hCDm59XXL0Aq98Fp+0Lc0CsYItUt7HOG3FOPcSgYKuKR30q3Ixgql/73z/ZzmnGww==",
+  "dgSpecHash": "PGNPyZ/8mBqsU1ZmpRPK7jARZPrO3h94MVjWIy3zTClN3ROrinkzW7JL5kBHdUaV0w9jVB5qOuh4w/trwufU8A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BraJo\\Desktop\\CLDV6212 Task 2 Mkhuseli Ngetu 20108278\\ABC Supermarket\\ABC Supermarket.csproj",
+  "projectFilePath": "C:\\Users\\BraJo\\Documents\\GitHub\\ABC-Supermarket\\MkhuseliNgetu\\ABC-Supermarket\\ABC Supermarket\\ABC Supermarket.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BraJo\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\BraJo\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

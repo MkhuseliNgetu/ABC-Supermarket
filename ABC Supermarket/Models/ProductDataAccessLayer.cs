@@ -24,7 +24,7 @@ namespace PractisingImageUpload.Models
         public List<string> ProductDescriptions { get; set; }
         public List<string> ProductPrices { get; set; }
 
-        public string ConToTheDatabase = "Data Source=productstoragedbserver.database.windows.net;Initial Catalog=ProductStorage;Persist Security Info=True;User ID=mkhuseli;Password=PRain@121345#";
+        public string ConToTheDatabase = "Server=tcp:ngetumain.database.windows.net,1433;Initial Catalog=ProductStorage;Persist Security Info=False;User ID=MKNgetu;Password=WtiJXaqAZH8y5re;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
 
        public void CreateANewProduct()
         {
